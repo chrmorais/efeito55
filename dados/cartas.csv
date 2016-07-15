@@ -1,0 +1,40 @@
+Tipo,Titulo,Descrição,Pontuação,Count
+Judiciário,Sérgio Moro manda colocar sigilo em documentos da Oderbrecht,,-1,1
+Judiciário,Sérgio Moro solicita condução coeritiva de Lula,,-2,2
+Judiciário,Nega pedido de liberdade de Marcelo Odebrecht ,,1,3
+Manobra,Votação do Impeachment é antecipada,Acabou. Verifique o placar final e some o voto do Presidente do Senado ao bloco vencedor. Esta carta não pode ser usada nos 4 primeiros turnos,,4
+Manobra,Desligue a TV,Todas as cartas de mídia são anuladas.,,5
+Manobra,Panelaço,Uma carta de mídia a sua escolha é anulada.,,6
+Manobra,Abaixo-assinado online,Mais de 1 milhão de pessoas pedem a suspensão da nomeação dos ministros do governo iterino que são alvos da Lava-Jato. ,3,7
+Manobra,Ocupação,Ocupação das sedes da Funarte em todo o Brasil,2,8
+Manobra,Mídia faz reportagens sobre corrupção do PSDB,,1,9
+Manobra,Grande mídia faz série de reportagens sobre corrupção do PT,,-2,10
+Manobra,Grande mídia faz série de reportagens sobre corrupção do PMDB,,2,11
+Mídia,"Governo interino acaba com subsídios à baixa renda no Minha Casa, Minha Vida",Fonte: Valor,-1,12
+Mídia,Governo interino quer desvincular gastos sociais como saúde e educação,Fonte: O Globo,-1,13
+Mídia,"Em diálogos gravados, Jucá fala em pacto para deter avanço da Lava Jato",Fonte: Folha,1,14
+Mídia,"Áudios mostram que PMDB, DEM, Solidariedade e PSDB financiaram movimento pró-impeachment",Fonte: UOL,1,15
+Mídia,Filho de 7 anos de Temer tem R$ 2 milhões em imóveis,Fonte: Estadão,1,16
+Mídia,Ministro da Transparência do governo interino critica Lava Jato em reunião com Renan,Fonte: G1,-1,17
+Mídia,Vazamento de delação de Delcídio envolvendo STF,,2,18
+Mídia,Novo ministro dos servidores da Transparência: quem não se identifica ideologicamente deve sair,Fonte: UOL,-1,19
+Mídia,Renan diz que pedido de prisão contra ele é 'desproporcional e abusivo',Fonte: G1,-1,20
+Mídia,Corte nas viagens de Dilma foi resposta aos ataques de petistas,Fonte: Estadão,-1,21
+Ministério Público,Realiza coletiva para arguir a favor do impeachment,,-1,22
+Manobra,Obras Olímpicas atrasam processos,Escolha um participante para ficar sem jogar nessa rodada,,23
+Ministério Público,Pede a cassação do Renan,,2,24
+Movimento Social,"Grandes manifestações ocorrendo em 6 Estados (SP/RJ/BA/AL/PE/CE)",,3,25
+Movimento Social,Meme contra o impeachment viraliza e chega a 5 milhões de compartilhamentos,,2,26
+Movimento Social,Manifestantes realizam grandes atos contra o impeachment em 10 Estados,,2,27
+Movimento Social,Movimento sem-teto ocupa sedes da Presidência da República em vários Estados,,1,28
+Movimento Social,Ocupação das estradas na Bahia e no Ceará,,1,29
+Movimento Social,Anonymous ataca site do PT com memes de corrupção,,-1,30
+Movimento Social,Manifestação pró-impeachment e volta da Ditadura na Paulista,,-2,31
+Poder Econômico,Financia anuncio a favor do impeachment de 6 paginas em jornais de grande circulação,,-2,32
+Poder Econômico,Realiza encontro nacional e convida apenas oposicionistas para falar,,-1,33
+Poder Econômico,Publica pesquisa de opinião com queda de popularidade dos favoráveis ao impeachment,,1,34
+Polícia Federal,PF faz nova ação na Operação Lava Jato,,1,35
+Polícia Federal,PF faz apreensão de documentos na Casa do Cunha,,1,36
+Polícia Federal,PF faz apreensão na sede do PMDB,,2,37
+STF,Arquiva investigação de Aécio,,-1,38
+STF,Aceita rito do impeachment do Senado,,-2,39

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="177.16536"
+   height="194.8819"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="senador.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3137">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3139" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3141" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3086">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3088" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3090" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3057">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#035798;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079347;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3059"
+         sodipodi:cx="6.8852129"
+         sodipodi:cy="73.702148"
+         sodipodi:rx="62.884945"
+         sodipodi:ry="62.884945"
+         d="m 69.770158,73.702148 a 62.884945,62.884945 0 1 1 -125.76989,0 62.884945,62.884945 0 1 1 125.76989,0 z"
+         transform="matrix(1.1021897,0,0,1.1021897,97.653918,625.83319)" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3086"
+       id="linearGradient3092"
+       x1="80.490608"
+       y1="171.27032"
+       x2="80.490608"
+       y2="138.02742"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.4883721,14.06075,530.84172)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3137"
+       id="linearGradient3143"
+       x1="42.807396"
+       y1="625.39264"
+       x2="42.807396"
+       y2="648.44232"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.2876749,0,-179.48652)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="70.841917"
+     inkscape:cx="109.09633"
+     inkscape:cy="1.0815549"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,177.16536"
+       id="guide3119" />
+    <sodipodi:guide
+       position="177.16536,0"
+       orientation="-194.8819,0"
+       id="guide3121" />
+    <sodipodi:guide
+       position="177.16536,194.8819"
+       orientation="0,-177.16536"
+       id="guide3123" />
+    <sodipodi:guide
+       position="0,194.8819"
+       orientation="194.8819,0"
+       id="guide3125" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.06075,-625.39264)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079346999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3098"
+       width="183.79506"
+       height="199.46187"
+       x="9.856101"
+       y="623.92139" />
+    <image
+       y="637.7558"
+       x="34.376587"
+       id="image3041"
+       xlink:href="file:///home/valessio/senado/senadores/senadorCODS.jpg"
+       height="177.16536"
+       width="141.73228"
+       clip-path="url(#clipPath3057)"
+       transform="matrix(1.205298,0,0,1.205298,-24.205423,-134.53649)" />
+    <rect
+       style="color:#000000;fill:url(#linearGradient3092);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079347;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3084"
+       width="174.39632"
+       height="81.768234"
+       x="15.977193"
+       y="737.22864" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079347;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3145"
+       width="57.49329"
+       height="45.35582"
+       x="-4.4648666"
+       y="697.62219"
+       ry="5.1105151" />
+    <image
+       y="703.61743"
+       x="19.338377"
+       id="image3069"
+       xlink:href="file:///home/valessio/senado/bandeiras/UF_p.gif"
+       height="21.219063"
+       width="30.444742" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.93418694px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079347;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="29.479816"
+       y="738.60944"
+       id="text3072"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3074"
+         x="29.479816"
+         y="738.60944">UF</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3076"
+       style="font-size:96.99343109px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079347;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       transform="translate(155.87754,802.34422)"><flowRegion
+         id="flowRegion3078"><rect
+           id="rect3080"
+           width="168.64699"
+           height="119.45828"
+           x="-137.9839"
+           y="-19.120914"
+           style="fill:#000000" /></flowRegion><flowPara
+         id="flowPara3082"
+         style="font-size:18px;text-align:center;line-height:87.00000048%;text-anchor:middle;fill:#000000">NOME</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:12.11880398px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079347;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="102.57943"
+       y="635.47009"
+       id="text3094"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3096"
+         x="102.57943"
+         y="635.47009"
+         style="font-weight:bold;fill:#ffffff" /></text>
+    <rect
+       y="623.92139"
+       x="9.856101"
+       height="31.453691"
+       width="183.79506"
+       id="rect3135"
+       style="color:#000000;fill:url(#linearGradient3143);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079347;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(155.87754,650.34422)"
+       style="font-size:96.99343109px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079347;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       id="flowRoot3127"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3129"><rect
+           style="fill:#ffffff"
+           y="-19.120914"
+           x="-137.9839"
+           height="119.45828"
+           width="168.64699"
+           id="rect3131" /></flowRegion><flowPara
+         style="font-size:13px;text-align:center;line-height:87.00000048%;text-anchor:middle;fill:#ffffff"
+         id="flowPara3133">SENADOR DO SIGLA</flowPara></flowRoot>    <rect
+       y="623.92139"
+       x="10.494915"
+       height="199.46187"
+       width="3.8490391"
+       id="rect3022"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079347;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36079347;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3024"
+       width="213.81934"
+       height="3.2647612"
+       x="10.494915"
+       y="820.11847" />
+  </g>
+</svg>
