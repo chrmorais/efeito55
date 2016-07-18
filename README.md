@@ -11,7 +11,7 @@ Este é um jogo de cartas com tabuleiro no qual os participantes lidam com event
 * Amanda Apen - Pesquisadora em gravuras e novas tecnologias
 * Arthur Henrique - Ciência Política
 * Luiz Geron - Programador, Hacker e Gamer
-* Sarah
+* Sarah Nery
 
 
 # Sobre o jogo
