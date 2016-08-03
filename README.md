@@ -4,7 +4,6 @@ Este é um jogo de cartas com tabuleiro no qual os participantes lidam com event
 # Colaboradorxs
 * Valessio Brito - Jacobinense, hacker, artista digital e ativista do conhecimento livre. www.valessiobrito.com.br
 * F. Kleiman - Gestor Público
-* G. Almeida - Gestor Público
 * Camila Vaz - Artes Visuais
 * Eduardo Mafea - Pesquisador de arte digital
 * Camila Fama - Jornalista e Mestranda em Divulgação Cientifica e Cultural
